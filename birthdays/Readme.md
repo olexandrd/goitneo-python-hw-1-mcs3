@@ -1,6 +1,6 @@
-### Generate names for birthday greetings  
+# Generate names for birthday greetings  
 
-# Install
+### Install
 
 Setup dependencies:
 ```sh
@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 
 ```
 
-# Usage
+### Usage
 
 ```sh
 python3 main.py
